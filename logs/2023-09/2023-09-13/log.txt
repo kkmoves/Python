@@ -1,0 +1,6 @@
+2023-09-13 10:27:16 [INFO]: This is a log message.
+2023-09-13 10:27:16 [WARNING]: This is a warning message.
+2023-09-13 10:27:16 [ERROR]: This is an error message.
+2023-09-13 11:11:55 [INFO]: This is a log message.
+2023-09-13 11:11:55 [WARNING]: This is a warning message.
+2023-09-13 11:11:55 [ERROR]: This is an error message.

@@ -24,3 +24,4 @@ logging.basicConfig(
 logging.info("This is a log message.")
 logging.warning("This is a warning message.")
 logging.error("This is an error message.")
+logging.debug("Log 日志测试.")
